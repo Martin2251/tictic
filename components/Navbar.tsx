@@ -6,7 +6,9 @@ import { GoogleLogin, GoogleLogout } from '@react-oauth/google';
 import {AiOutlineLogout} from "react-icons/ai";
 import {BiSearch} from "react-icons/bi";
 import {IoMdAdd} from "react-icons/io"
-import Logo from "../utils/""
+import Logo from "/utils/tiktik-logo.png"
+
+
 
 
 const Navbar = () => {
