@@ -13,7 +13,7 @@ import Logo from "/utils/tiktik-logo.png"
 
 const Navbar = () => {
   return (
-    <div>
+    <div className='w-full flex justify-between items-center border-b-2'>
       <Link href="/">
       <div>
           <Image 
